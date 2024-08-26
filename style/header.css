@@ -2,7 +2,7 @@
    
     h1 {
         font-size: 500%;
-        color: #707567;
+        color: hsl(0, 0%, 2%);
         background-color: rgb(183, 177, 189);
     }
 }
